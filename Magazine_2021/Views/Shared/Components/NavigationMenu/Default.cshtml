@@ -1,0 +1,9 @@
+﻿<a class="btn btn-block btn-default" asp-action="Index" asp-controller="Home">На главную</a>
+
+@foreach (var category in Model)
+{
+    <a class="btn btn-block btn-default" 
+       asp-action="AllCars" 
+       asp-controller="Cars">
+    Конпка</a>
+}

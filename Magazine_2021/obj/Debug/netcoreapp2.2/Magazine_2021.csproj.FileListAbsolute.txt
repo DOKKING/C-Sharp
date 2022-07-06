@@ -1,0 +1,107 @@
+D:\Проекты\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.deps.json
+D:\Проекты\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.runtimeconfig.json
+D:\Проекты\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.runtimeconfig.dev.json
+D:\Проекты\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.dll
+D:\Проекты\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.pdb
+D:\Проекты\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.csprojAssemblyReference.cache
+D:\Проекты\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.csproj.CoreCompileInputs.cache
+D:\Проекты\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorAssemblyInfo.cache
+D:\Проекты\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorAssemblyInfo.cs
+D:\Проекты\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.AssemblyInfoInputs.cache
+D:\Проекты\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.AssemblyInfo.cs
+D:\Проекты\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorTargetAssemblyInfo.cache
+D:\Проекты\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.dll
+D:\Проекты\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.pdb
+C:\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.deps.json
+C:\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.runtimeconfig.json
+C:\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.runtimeconfig.dev.json
+C:\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.dll
+C:\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.pdb
+C:\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.Views.dll
+C:\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.Views.pdb
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.csprojAssemblyReference.cache
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.csproj.CoreCompileInputs.cache
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorAssemblyInfo.cache
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorAssemblyInfo.cs
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.AssemblyInfoInputs.cache
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.AssemblyInfo.cs
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.TagHelpers.input.cache
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.TagHelpers.output.cache
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorCoreGenerate.cache
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorTargetAssemblyInfo.cache
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorTargetAssemblyInfo.cs
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.Views.pdb
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.dll
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.pdb
+C:\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.csproj.CopyComplete
+D:\Проекты\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.deps.json
+D:\Проекты\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.runtimeconfig.json
+D:\Проекты\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.runtimeconfig.dev.json
+D:\Проекты\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.dll
+D:\Проекты\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.pdb
+D:\Проекты\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.Views.dll
+D:\Проекты\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.Views.pdb
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.csprojAssemblyReference.cache
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.csproj.CoreCompileInputs.cache
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorAssemblyInfo.cache
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorAssemblyInfo.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.AssemblyInfoInputs.cache
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.AssemblyInfo.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.TagHelpers.input.cache
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.TagHelpers.output.cache
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorCoreGenerate.cache
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorTargetAssemblyInfo.cache
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorTargetAssemblyInfo.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.Views.pdb
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.dll
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.pdb
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.csproj.CopyComplete
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Home\FavCars.g.cshtml.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Home\CarsInTable.g.cshtml.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Home\SingleCar.g.cshtml.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Cars\AddCar.g.cshtml.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Cars\EditCar.g.cshtml.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Cars\AddCar2.g.cshtml.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Cars\AllCars.g.cshtml.cs
+D:\Проекты\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\NavigationMenu\Default.g.cshtml.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.dll
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.pdb
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.deps.json
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.runtimeconfig.dev.json
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.dll
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.pdb
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.Views.dll
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\bin\Debug\netcoreapp2.2\Magazine_2021.Views.pdb
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.TagHelpers.input.cache
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.TagHelpers.output.cache
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Cars\AddCar.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Cars\AddCar2.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Cars\AllCars.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Cars\EditCar.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Home\CarsInTable.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Home\FavCars.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Home\SingleCar.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.Views.pdb
+C:\Users\User\Desktop\Новая папка\Magazine_2021\Magazine_2021\obj\Debug\netcoreapp2.2\Magazine_2021.csproj.CopyComplete

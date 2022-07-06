@@ -1,0 +1,18 @@
+﻿<h1>Список автомобилей</h1>
+
+<div class="row mt-5 mb-2">
+    @{
+        foreach (var car in Model)
+        {
+            <div class="card m-3" style="width: 18rem;">
+                <img src="@car.img" class="card-img-top" alt="@car.name">
+                <div class="card-body">
+                    <h5 class="card-title">@car.name</h5>
+                    <p class="card-text">@car.shortDesc</p>с
+                    <p>Цена: @car.price.ToString("c")</p>
+                    <a href="#" class="btn btn-primary" onclick="location.href = '@Url.Action("SingleCar", "Home", new { _id = car.id})'">Подробнее</a>
+                </div>
+            </div>
+        }
+    }
+</div>

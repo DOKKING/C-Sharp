@@ -1,0 +1,14 @@
+﻿<h1>Только избранные автомобили</h1>
+<div class="row mt-5 mb-2">
+    @{
+        foreach (var car in Model)
+        {
+            <div class="col-lg-4">
+                <img src="@car.img" alt="@car.name" />
+                <h2>@car.name</h2>
+                <p>@car.shortDesc</p>
+                <p>Цена: @car.price.ToString("c")</p>
+            </div>
+        }
+    }
+</div>

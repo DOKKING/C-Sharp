@@ -1,0 +1,36 @@
+﻿<h1>Таблица всех доступных автомобилей</h1>
+
+<table class="table table-hover">
+    <tr>
+        <td>№ п.п.</td>
+        <td>Название</td>
+        <td>Краткое описание</td>
+        <td>Полное описание</td>
+        <td>Фото</td>
+        <td>Редактрование</td>
+        <td>Удаление</td>
+    </tr>
+    @{
+        int i = 1;
+        foreach (var car in Model)
+        {
+            <tr>
+                <td>@Html.Raw(i++)</td>
+                <td>@car.name</td>
+                <td>@car.shortDesc</td>
+                <td>@car.longDesc</td>
+                <td><img width="50" src="@car.img" /></td>
+                <td><button class="btn btn-primary" onclick="location.href = '@Url.Action("EditCar", "Cars", new { _id = car.id})'">Редактировать</button></td>
+                @*<td><button class="btn btn-danger" onclick="location.href = '@Url.Action("DeleteCar", "Cars", new { _id = car.id})'">Удалить</button></td>*@
+                <td><button class="btn btn-danger">
+                        @Html.ActionLink(
+                            "Удалить", "DeleteCar", "Cars",
+                            new { _id = car.id}, new { onclick = "return confirm('Удалить объект?')",
+                            @class = "button"}
+                            )
+                    </button></td>
+            </tr>
+
+        }
+    }
+</table>
