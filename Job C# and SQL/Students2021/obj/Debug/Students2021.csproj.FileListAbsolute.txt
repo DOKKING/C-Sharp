@@ -1,0 +1,43 @@
+D:\Проекты\Students2021\Students2021\bin\Debug\Data\StudDb.mdf
+D:\Проекты\Students2021\Students2021\bin\Debug\Data\StudDb_log.ldf
+D:\Проекты\Students2021\Students2021\bin\Debug\Students2021.exe.config
+D:\Проекты\Students2021\Students2021\bin\Debug\Students2021.exe
+D:\Проекты\Students2021\Students2021\bin\Debug\Students2021.pdb
+D:\Проекты\Students2021\Students2021\obj\Debug\Students2021.csprojAssemblyReference.cache
+D:\Проекты\Students2021\Students2021\obj\Debug\Students2021.Forms.Login.resources
+D:\Проекты\Students2021\Students2021\obj\Debug\Students2021.Properties.Resources.resources
+D:\Проекты\Students2021\Students2021\obj\Debug\Students2021.csproj.GenerateResource.cache
+D:\Проекты\Students2021\Students2021\obj\Debug\Students2021.csproj.CoreCompileInputs.cache
+D:\Проекты\Students2021\Students2021\obj\Debug\Students2021.exe
+D:\Проекты\Students2021\Students2021\obj\Debug\Students2021.pdb
+D:\Проекты\Students2021\Students2021\obj\Debug\Students2021.Glavn.resources
+D:\Проекты\Students2021\Students2021\obj\Debug\Students2021.Forms.AddGroup.resources
+D:\Проекты\Students2021\Students2021\obj\Debug\Students2021.Forms.Groups.resources
+C:\Users\User\Desktop\Students2022\Students2021\bin\Debug\Data\StudDb.mdf
+C:\Users\User\Desktop\Students2022\Students2021\bin\Debug\Data\StudDb_log.ldf
+C:\Users\User\Desktop\Students2022\Students2021\bin\Debug\Students2021.exe.config
+C:\Users\User\Desktop\Students2022\Students2021\bin\Debug\Students2021.exe
+C:\Users\User\Desktop\Students2022\Students2021\bin\Debug\Students2021.pdb
+C:\Users\User\Desktop\Students2022\Students2021\obj\Debug\Students2021.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Students2022\Students2021\obj\Debug\Students2021.Forms.AddGroup.resources
+C:\Users\User\Desktop\Students2022\Students2021\obj\Debug\Students2021.Glavn.resources
+C:\Users\User\Desktop\Students2022\Students2021\obj\Debug\Students2021.Forms.Groups.resources
+C:\Users\User\Desktop\Students2022\Students2021\obj\Debug\Students2021.Forms.Login.resources
+C:\Users\User\Desktop\Students2022\Students2021\obj\Debug\Students2021.Properties.Resources.resources
+C:\Users\User\Desktop\Students2022\Students2021\obj\Debug\Students2021.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Students2022\Students2021\obj\Debug\Students2021.exe
+C:\Users\User\Desktop\Students2022\Students2021\obj\Debug\Students2021.pdb
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\bin\Debug\Data\StudDb.mdf
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\bin\Debug\Data\StudDb_log.ldf
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\bin\Debug\Students2021.exe.config
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\bin\Debug\Students2021.exe
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\bin\Debug\Students2021.pdb
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\obj\Debug\Students2021.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\obj\Debug\Students2021.Forms.AddGroup.resources
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\obj\Debug\Students2021.Glavn.resources
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\obj\Debug\Students2021.Forms.Groups.resources
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\obj\Debug\Students2021.Forms.Login.resources
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\obj\Debug\Students2021.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\obj\Debug\Students2021.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\obj\Debug\Students2021.exe
+C:\Users\User\Desktop\Новая папка\Students2022\Students2021\obj\Debug\Students2021.pdb
